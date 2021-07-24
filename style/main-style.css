@@ -58,4 +58,27 @@ body {
 
 .margin-sides {
   margin: 0 10px;
+  padding: 0;
+}
+
+main {
+  width: 90%;
+  border: 1px black solid;
+  margin: auto;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.border-bottom {
+  border-bottom: 1px solid lightgray;
 }
