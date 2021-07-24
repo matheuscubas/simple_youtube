@@ -1,5 +1,63 @@
 body {
   margin: 0;
+  font-size: 10px;
+}
+
+#navbar {
+  background-color: #fff;
+  width: 100%;
+  height: 56px;
+}
+
+#lmenu {
+  margin: 20px;
+}
+
+.dflex {
+  display: flex;
+}
+
+.spacebetween {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+#logo {
+  height: 40px;
+}
+.sbar {
+  width: 400px;
+  height: 24px;
+  margin: 0;
+  border: 1px gray solid;
+}
+
+.sbutton {
+  height: 30px;
+  margin: 0;
+}
+
+.margin-right-20 {
+  margin-right: 20px;
+}
+
+.margin-0 {
+  margin: 0px;
+}
+
+.p-sides-20 {
+  padding: 0 20px;
+}
+
+.gray {
+  color: grey;
+}
+
+.margin-sides {
+  margin: 0 10px;
   padding: 0;
 }
 
