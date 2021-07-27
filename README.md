@@ -10,6 +10,7 @@
  
  ## Who am I?
  [GitHub](https://github.com/Ryuukhi)
+ 
  [LinkedIn](https://www.linkedin.com/in/matheusvcubas)
  
  ## Thankings
